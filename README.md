@@ -27,3 +27,10 @@ Ej.- cd ../../
 - 09-Func-par-def (```cd assignments/09-Func-par-def```)
 - 10-Func-un-global (```cd assignments/10-Func-un-global```)
 - 11-Func-overload (```cd assignments/11-Func-overload```)
+
+# Navegación - Home
+Para regresar al Home del repositorio, use:
+```
+cd /workspaces/TC1033.*
+```
+
